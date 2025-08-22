@@ -1,2 +1,3 @@
 # git-medium-practice
-git practice 
+version 1.0.0
+ 
